@@ -28,3 +28,7 @@ Contiene los enlaces a nos notebooks en Google Colaboratory de cada sesión usad
 ## *Enlaces_Colab_editados*
 
 Contiene los enlaces a nos notebooks en Google Colaboratory de cada sesión editados durante las sesiones
+
+## *Instrucciones de instalación de PyQt (Windows)*
+
+Contiene un documento explicado paso a paso para lograr tener bien instalado PyQt, librería que se utilizará para desarrollo de software.
