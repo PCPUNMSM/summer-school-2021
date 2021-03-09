@@ -29,6 +29,6 @@ Contiene los enlaces a nos notebooks en Google Colaboratory de cada sesión usad
 
 Contiene los enlaces a nos notebooks en Google Colaboratory de cada sesión editados durante las sesiones
 
-## *Instrucciones de instalación de PyQt (Windows)*
+## *Instrucciones de instalación de Anaconda y PyQtGraph (Windows)*
 
-Contiene un documento explicado paso a paso para lograr tener bien instalado PyQt, librería que se utilizará para desarrollo de software.
+Contiene un documento explicado paso a paso para lograr tener bien instalado Anaconda y  PyQtGraph, librería que se utilizará para desarrollo de la Interfaz Gráfica.
