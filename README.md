@@ -32,3 +32,7 @@ Contiene los enlaces a nos notebooks en Google Colaboratory de cada sesión edit
 ## *Instrucciones de instalación de Anaconda y PyQtGraph (Windows)*
 
 Contiene un documento explicado paso a paso para lograr tener bien instalado Anaconda y  PyQtGraph, librería que se utilizará para desarrollo de la Interfaz Gráfica.
+
+## DONACIONES
+
+Tenemos habilitado un Ko-Fi para que puedan hacer donaciones desde 3$, donaciones que serán reinvertidos en la comunidad: https://ko-fi.com/rcrdphysics
